@@ -1,0 +1,14 @@
+
+Main Hosting Details
+Control panel username：b7_27522845
+Control panel password：godisdid545623
+Control panel URL：cpanel.byethost7.com
+MySQL username：b7_27522845
+MySQL password：**********
+MySQL hostname：sql106.byethost7.com
+FTP username：b7_27522845
+FTP password：**********
+FTP host name：ftp.byethost7.com
+
+Your Website URL's
+Home page：http://whitebook.byethost7.com
